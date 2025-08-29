@@ -67,9 +67,9 @@ ________________________________________
 
 **Title:** Fundamentals of Generative AI and Large Language Models (LLMs)
 
-**Author:** GOWTHAM.N
+**Author:** Singaravetrivel S
 
-**Reg no:** 212223100008
+**Reg no:** 212222220048
 
 ---
 
